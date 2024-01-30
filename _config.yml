@@ -1,0 +1,14 @@
+title: Preeti Gudania # your name (or website title) here
+logo: "/images/moving profile photo.gif?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  I am a data analyst who loves data. With my expertise in SQL, power bi, and Excel, I effectively communicate and solve problems by transforming data into valuable insights and enabling businesses to achieve accelerated growth.
+  <br><br>
+  <a href="https://www.linkedin.com/in/preetigudania/">View My LinkedIn Profile</a> 
+
+  
+
+  
+  
+  
+theme: jekyll-theme-minimal
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
