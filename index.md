@@ -39,7 +39,9 @@ Leveraging the power of Excel, this road accident analysis delved into urban-rur
 
 
 ---
-
+#### [IPL-T20-Insights](https://www.linkedin.com/pulse/ipl-insights-preeti-gudania-pmdlc/?trackingId=tTNulYVqS%2BGXW317QtFxUw%3D%3D/)
+[<img src="images/IPL analysis.png"/>](https://www.linkedin.com/pulse/ipl-insights-preeti-gudania-pmdlc/?trackingId=tTNulYVqS%2BGXW317QtFxUw%3D%3D/)
+Delve into the thrilling world of the Indian Premier League (IPL) with our comprehensive project that encapsulates the essence of cricket's most celebrated tournament. Titled "IPL Insights," this project provides a fascinating exploration of key elements that define the excitement of each match.
 
 
 
