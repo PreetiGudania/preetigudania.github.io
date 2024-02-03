@@ -34,7 +34,8 @@ Advanced Excel
 
 
 #### [Road-accident analysis using excel visulization and reach the insides](https://www.linkedin.com/feed/update/urn:li:linkedInArticle:7158119315307732993/)
-[<img src="images/Road_accident_analysis.gif"/>](https://www.linkedin.com/feed/update/urn:li:linkedInArticle:7158119315307732993/)
+[<img src="images/road accident template.png
+"/>](https://www.linkedin.com/feed/update/urn:li:linkedInArticle:7158119315307732993/)
 Leveraging the power of Excel, this road accident analysis delved into urban-rural distinctions, serious casualties, and monthly trends. Excel served as the sole tool for querying, visualizing, and presenting critical information. Through charts, graphs, and tables, it transformed raw data into clear insights, enabling a comprehensive understanding of road safety dynamics. This approach, centered on Excel's data manipulation and visualization capabilities, facilitates evidence-based strategies for authorities to tailor interventions and policies effectively, ultimately aiming to reduce casualties and enhance road safety.
 
 
