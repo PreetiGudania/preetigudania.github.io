@@ -23,10 +23,12 @@
 
 
 
-#### ["Pizza analysis](https://www.linkedin.com/pulse/pizza-sales-analysis-preeti-gudania-rg0cc/)
-[<img src="images/Pizza_sale_analysis.gif"/>](https://www.linkedin.com/pulse/pizza-sales-analysis-preeti-gudania-rg0cc/)
+#### [Pizza analysis](https://www.linkedin.com/pulse/pizza-sales-analysis-preeti-gudania-rg0cc/)
+[<img src="images/pizza project template.png"/>](https://www.linkedin.com/pulse/pizza-sales-analysis-preeti-gudania-rg0cc/)
 Analysis on pizza sales data to gain insights into various aspects of the business. Tools Used: SQL: Employed for querying the database to extract specific information and metrics. Excel: Utilized for visualization and presentation of the analysis results.
-
+<b>Tools</b></br>
+SQL</br>
+Advanced Excel
 
 ---
 
