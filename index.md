@@ -23,12 +23,12 @@
 
 
 
-#### [Pizza analysis](https://www.linkedin.com/pulse/pizza-sales-analysis-preeti-gudania-rg0cc/)
-[<img src="images/pizza project template.png"/>](https://www.linkedin.com/pulse/pizza-sales-analysis-preeti-gudania-rg0cc/)
-Analysis on pizza sales data to gain insights into various aspects of the business. Tools Used: SQL: Employed for querying the database to extract specific information and metrics. Excel: Utilized for visualization and presentation of the analysis results.
+#### [Car SAles analysis](https://www.linkedin.com/pulse/car-sales-insights-preeti-gudania-x6hpc/?trackingId=AUKCAUQ4SfyzGqhLrxNhAA%3D%3D/)
+[<img src="images/Black And White Modern Car Sale Banner.gif"/>](https://www.linkedin.com/pulse/car-sales-insights-preeti-gudania-x6hpc/?trackingId=AUKCAUQ4SfyzGqhLrxNhAA%3D%3D/)
+Using Power bi | Excel I successfully transformed and cleaned a 24,000-record car sales dataset in Excel, applying advanced formulas in Power BI. Key data columns include Car_id, Date, Customer details, Dealer information, and sales-related attributes. My analysis incorporated Year-over-Year (YoY), Month-to-Date (MTD), Prior Year-to-Date (PYTD), and Year-to-Date (YTD) comparisons. Metrics like sales differences and averages were calculated, and the findings were visually presented using Power BI for effective insights into car sales trends and performance.
 <b>Tools</b></br>
-SQL</br>
-Advanced Excel
+**Power bi**</br>
+**Advanced Excel**
 
 ---
 
@@ -45,7 +45,12 @@ Delve into the thrilling world of the Indian Premier League (IPL) with our compr
 
 
 
-
+#### [Pizza analysis](https://www.linkedin.com/pulse/pizza-sales-analysis-preeti-gudania-rg0cc/)
+[<img src="images/pizza project template.png"/>](https://www.linkedin.com/pulse/pizza-sales-analysis-preeti-gudania-rg0cc/)
+Analysis on pizza sales data to gain insights into various aspects of the business. Tools Used: SQL: Employed for querying the database to extract specific information and metrics. Excel: Utilized for visualization and presentation of the analysis results.
+<b>Tools</b></br>
+SQL</br>
+Advanced Excel
 ---
 
 
